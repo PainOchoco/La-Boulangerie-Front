@@ -1,6 +1,6 @@
 # La Boulangerie Front
 
-So it's the front end of my personnal website. That you can find [here](http://laboulangerie.net/)!
+So it's the front end of my personal website. That you can find [here](http://laboulangerie.net/)!
 <br>
 It's very simple but I quite like it :D
 
